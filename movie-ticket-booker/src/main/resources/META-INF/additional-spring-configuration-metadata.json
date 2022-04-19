@@ -1,0 +1,192 @@
+{"properties": [
+  {
+    "name": "mail.smtp.debug",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.debug'"
+  },
+  {
+    "name": "smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.auth'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.ssl",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.ssl'"
+  },
+  {
+    "name": "spring.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.host'"
+  },
+  {
+    "name": "spring.host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.host'"
+  },
+  {
+    "name": "spring.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.port'"
+  },
+  {
+    "name": "spring.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.username'"
+  },
+  {
+    "name": "spring.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.password'"
+  },
+  {
+    "name": "smtp.STARTTLS.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.STARTTLS.enable'"
+  },
+  {
+    "name": "smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'smtp.starttls.enable'"
+  },
+  {
+    "name": "mail.smtp.ssl",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.ssl'"
+  },
+  {
+    "name": "mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.auth'"
+  },
+  {
+    "name": "mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.starttls.enable'"
+  }
+]}
